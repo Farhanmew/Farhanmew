@@ -1,12 +1,12 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Farhan Mew
 
-### Full Stack Developer | [Your Other Interests]
+Full Stack Developer | 
 
 I build smart, fast, and reliable web apps from backend to frontend. I'm always open to collaborate on projects that solve real problems and create real value.
 
 * **Location:** Mandsaur, India
-* **Email:** [your-email@example.com]
-* **Portfolio:** [your-portfolio.link]
+* **Email:** [Farhanmew4851@gmail.com]
+* **Portfolio:** [Farhanmew.online]
 
 ---
 
