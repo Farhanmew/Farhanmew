@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**Farhanmew/Farhanmew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | [Your Other Interests]
 
-Here are some ideas to get you started:
+I build smart, fast, and reliable web apps from backend to frontend. I'm always open to collaborate on projects that solve real problems and create real value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Location:** Mandsaur, India
+* **Email:** [your-email@example.com]
+* **Portfolio:** [your-portfolio.link]
+
+---
+
+## Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,mongodb,postgres,express,nodejs,docker,firebase,aws" />
+</p>
+
+---
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark)
